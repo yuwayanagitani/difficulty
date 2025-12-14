@@ -1,0 +1,18 @@
+{
+  "name": "Difficulty Tag Auto-Assigner",
+  "mod": 1,
+  "conflicts": [],
+  "min_point_version": 40,
+  "max_point_version": 99,
+  "config": {
+    "hard_lapses_min": 3,
+    "hard_ease_max_pct": 230,
+    "easy_lapses_max": 0,
+    "easy_ivl_min": 21,
+    "easy_ease_min_pct": 250
+  },
+  "description": "Automatically assigns Hard / Medium / Easy tags to notes based on review statistics. Includes tag removal and customizable thresholds.",
+  "homepage": "",
+  "author": "Yuwa (custom addon build)",
+  "version": "1.0.0"
+}

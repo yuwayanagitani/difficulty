@@ -1,0 +1,14 @@
+{
+  "very_hard_lapses_min": 5,
+  "very_hard_ease_max_pct": 200,
+
+  "hard_lapses_min": 3,
+  "hard_ease_max_pct": 230,
+
+  "easy_lapses_max": 0,
+  "easy_ivl_min": 21,
+  "easy_ease_min_pct": 250,
+
+  "very_easy_ivl_min": 90,
+  "very_easy_ease_min_pct": 280
+}
